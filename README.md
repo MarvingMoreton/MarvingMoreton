@@ -1,7 +1,7 @@
 <h1>Hey there 👋🏽 and Welcome to my Github!</h1>
 
 
-<p></br> I'm Marving, a Fullstack Developer from <b>Martinique, French West Indies</b>, currently living in <b>Montreal, Canada 🇨🇦</b> </p>
+<p></br> I'm Marving, a Fullstack Developer from <b>Martinique, French West Indies</b>, living in <b>Montreal, Canada 🇨🇦</b> </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
