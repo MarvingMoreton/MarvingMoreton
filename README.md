@@ -38,6 +38,7 @@
 <h3>My streak stats</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarvingMoreton" alt="MarvingMoreton" /></p>
 <b>My GitHub Stats</b>
+<a href="http://www.github.com/MarvingMoreton"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarvingMoreton&stroke=0f172a&background=ffffff&ring=0f172a&fire=0f172a&currStreakNum=0f172a&currStreakLabel=0f172a&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
 
 <a href="http://www.github.com/MarvingMoreton"><img src="https://github-readme-stats.vercel.app/api?username=MarvingMoreton&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=0f172a&icon_color=444e59&bg_color=ffffff&hide_border=true&show_icons=true" alt="Marving Moreton's GitHub stats" /></a>
 
