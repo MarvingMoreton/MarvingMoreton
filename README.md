@@ -35,7 +35,3 @@
  
 </p>
 
-<h3>My streak stats</h3>
-
-<a href="http://www.github.com/MarvingMoreton"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarvingMoreton&stroke=0f172a&background=ffffff&ring=0f172a&fire=0f172a&currStreakNum=0f172a&currStreakLabel=0f172a&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
-
