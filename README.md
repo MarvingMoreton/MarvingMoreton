@@ -2,10 +2,9 @@
 
 #### I'm Marving, a Full-Stack Developer from Martinique, French West Indies, living in Montreal, Canada 🇨🇦
 
-Full-Stack Developer at [Expedibox](https://expedibox.com/en/);<br>
 
-- ⚙️ I use daily: `Next.js`, `React.js`, `Tailwind`, `Django`, `Postgre SQL with Prisma`, `Typescript`, `.ai`
+- ⚙️ I use daily: `Next.js`, `React.js`, `Tailwind`, `Django`, `Postgre SQL with Prisma`, `Typescript`, `Headless CMS (Prismic)`
 - 🌍 I'm mostly active within the **React Community**
-- 🏗️ Built: [freel.ca](https://freel.ca/), [casesteady.ai](https://casesteady.ai/), [dataaxy](https://dataaxy.com/), etc…
-- 🏝️ Cofounded:[Tourcrib](https://tourcrib.com/) (exited)
-- 💬 `ping` me about **development**, **Product Design**, **Indie Hacking**, **Growth Marketing**, **SEO**,
+- 🏗️ Built: [Freel](https://freel.ca/), [casesteady.ai](https://casesteady.ai/), [Dataaxy](https://dataaxy.com/), etc… [Portfolio](https://marvingmoreton.com/)
+- 🏝️ Co-founded: [Tourcrib](https://tourcrib.com/) (exited in 2024)
+- 💬 `ping` me about **Development**, **Product Design**, **Indie Hacking**, **Growth Marketing**, **SEO**
